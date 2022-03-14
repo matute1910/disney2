@@ -1,0 +1,12 @@
+E:\DISCO NUEVO\Documents\Matias\Matias estudio\Visual2017\Disney.Api\Disney.Core\bin\Debug\net5.0\Disney.Core.deps.json
+E:\DISCO NUEVO\Documents\Matias\Matias estudio\Visual2017\Disney.Api\Disney.Core\bin\Debug\net5.0\Disney.Core.dll
+E:\DISCO NUEVO\Documents\Matias\Matias estudio\Visual2017\Disney.Api\Disney.Core\bin\Debug\net5.0\ref\Disney.Core.dll
+E:\DISCO NUEVO\Documents\Matias\Matias estudio\Visual2017\Disney.Api\Disney.Core\bin\Debug\net5.0\Disney.Core.pdb
+E:\DISCO NUEVO\Documents\Matias\Matias estudio\Visual2017\Disney.Api\Disney.Core\obj\Debug\net5.0\Disney.Core.csproj.AssemblyReference.cache
+E:\DISCO NUEVO\Documents\Matias\Matias estudio\Visual2017\Disney.Api\Disney.Core\obj\Debug\net5.0\Disney.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\DISCO NUEVO\Documents\Matias\Matias estudio\Visual2017\Disney.Api\Disney.Core\obj\Debug\net5.0\Disney.Core.AssemblyInfoInputs.cache
+E:\DISCO NUEVO\Documents\Matias\Matias estudio\Visual2017\Disney.Api\Disney.Core\obj\Debug\net5.0\Disney.Core.AssemblyInfo.cs
+E:\DISCO NUEVO\Documents\Matias\Matias estudio\Visual2017\Disney.Api\Disney.Core\obj\Debug\net5.0\Disney.Core.csproj.CoreCompileInputs.cache
+E:\DISCO NUEVO\Documents\Matias\Matias estudio\Visual2017\Disney.Api\Disney.Core\obj\Debug\net5.0\Disney.Core.dll
+E:\DISCO NUEVO\Documents\Matias\Matias estudio\Visual2017\Disney.Api\Disney.Core\obj\Debug\net5.0\ref\Disney.Core.dll
+E:\DISCO NUEVO\Documents\Matias\Matias estudio\Visual2017\Disney.Api\Disney.Core\obj\Debug\net5.0\Disney.Core.pdb
